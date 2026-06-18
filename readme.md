@@ -1,10 +1,10 @@
-# 🤖 GateGPT - AI Powered GATE CSE Assistant
+# 🤖 GateBot - AI Powered GATE CSE Assistant
 
-![GateGPT Demo](assets/demo.png)
+![GateBot Demo](assets/demo.png)
 
 ## 📌 Overview
 
-**GateGPT** is an AI-powered learning assistant designed for **GATE Computer Science Engineering (CSE) aspirants**.  
+**GateBot** is an AI-powered learning assistant designed for **GATE Computer Science Engineering (CSE) aspirants**.  
 It uses a custom knowledge base with conversational AI capabilities to answer subject-related queries, explain concepts, and provide quick access to relevant preparation resources.
 
 The goal of this project is to make exam preparation more interactive, accessible, and efficient using AI-driven assistance.
@@ -51,7 +51,7 @@ The goal of this project is to make exam preparation more interactive, accessibl
 User Query
     |
     ↓
-GateGPT Web Interface
+GateBot Web Interface
     |
     ↓
 Botpress AI Agent
@@ -73,7 +73,7 @@ User Receives Answer
 
 ## 📚 Knowledge Base Coverage
 
-GateGPT is powered by curated Computer Science resources covering major GATE CSE subjects:
+GateBot is powered by curated Computer Science resources covering major GATE CSE subjects:
 
 - 📌 Data Structures & Algorithms
 - 📌 Database Management Systems
@@ -102,7 +102,7 @@ This project demonstrates how AI agents can enhance digital learning by combinin
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="assets/demo.png" alt="GateGPT Demo" width="800"/>
+  <img src="assets/demo.png" alt="GateBot Demo" width="800"/>
 </p>
 
 
